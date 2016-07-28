@@ -1,2 +1,2 @@
 <?php
-echo 'foo branch';
+echo 'foo branch v2.0';
